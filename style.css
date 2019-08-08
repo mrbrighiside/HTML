@@ -1,0 +1,29 @@
+body {
+    background-color: #f8f8f8;
+}
+
+a {
+    text-decoration: none;
+    color: blueviolet;
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+.product {
+    font-size: 18px;
+    font-weight: 400;
+    background-color: #eaeaea;
+}
+
+.product-1 {
+    color: #707070;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+}
+.img-border {
+    border: #f8f8f8 1px solid;
+}
